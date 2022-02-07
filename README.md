@@ -1,8 +1,8 @@
 # hello-world-dam1
-## -- Queremos ampliar nuestra base de datos relaciones_personales v1.
-
-### -- Para ello vamos a crear un script DDL para llevar a cabo las siguientes
-##### -- modificaciones en dicha base de datos:
-
-##### use relaciones_personales_v1;
-###### -- Añade un campo para la fecha de nacimiento en la tabla mujeres y que
+## Tarea 3
+### Procederemos a crear un repositorio
+#### Continuamos agregando el nombre al repositorio,que en este caso es,hello-world-dam1 y procederemos a pulsar en el apartado add a Readme file
+##### Una vez hayamos completado todo esto,procederemos a crear branch para crear el apartado readme en el apartado main
+###### Cuando hayamos completado,nos dejará editar el readme,para guardar se le da a la opción commit changes
+####### Ahora procederemos a crear un pull request
+######## Cuando tengamos hecho un pull request  le damos a merge pull request
